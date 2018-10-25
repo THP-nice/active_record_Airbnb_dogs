@@ -1,4 +1,4 @@
-# Database with Rails - Active Record - Factory Project
+# Database with Rails - Active Record - Airbnb_dogs
 
 This work was done as a project for [The Hacking Project Bootcamp](https://www.thehackingproject.org/).
 The goal was to learn the basics of the Database with Rails and build an SQL database of a Airbnb app but for dogs! So, in our database, we can find Dogsitters, Dogs, Stroll and cities! 
